@@ -1,2 +1,4 @@
 # Cannabis-Industry-Analysis
- Cannabis Industry is evolving with a rapid pace as the government of Canada is looking to legalize Cannabis to regulate it's consumption. It becomes crucial to now analyze the competitors in this industry and see how is the overall cannabis market performing.
+Cannabis Industry is evolving with a rapid pace as the government of Canada is looking to legalize Cannabis to regulate it's consumption. It becomes crucial to now analyze the participants in this industry and see how is the overall cannabis market performing.
+
+In this analysis, I aim to analyze the biggest shareholders of the Canadian cannabis market, how has been their month-over-month performance and what are some of the factors that are responsible for the growth in their market share. I also aim to analyze two of the biggest competitors in the industry - ROSE LifeSciences and Tilray - to see what influence do they have on each other and on the whole cannabis market. I also aimed to identify what is the average cost at which a Canadian resident would have to purchase cannabis, and how has it been performing over the months.
